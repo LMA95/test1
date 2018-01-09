@@ -6,7 +6,6 @@ public class MYCalc {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int number1=0,number2=0;
-
 		Scanner scan = new Scanner(System.in);
 		int inserted_menu=0;
 		System.out.print("[ ID: 1416352] \r[ Name: LEE MINA ] \r");
