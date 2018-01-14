@@ -9,6 +9,7 @@ public class MYCalc {
 		Scanner scan = new Scanner(System.in);
 		int inserted_menu=0;
 		System.out.print("[ ID: 1416352] \r[ Name: LEE MINA ] \r");
+
 		do{
 			System.out.print("\r");
 			System.out.print("1. Add two numbers \r");
